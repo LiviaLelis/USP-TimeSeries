@@ -15,4 +15,8 @@ micromamba activate timeseries-tp
 
 micromamba install -c pytorch -c nvidia pytorch torchvision \
            torchaudio pytorch-cuda=12.4 
+
+micromamba install -c pytorch -c nvidia -c rapidsai -c conda-forge faiss-gpu-raft=1.9.0
+
+micromamba install -c conda-forge fastdtw
 ```

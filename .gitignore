@@ -1,6 +1,6 @@
 
 # Too big for uploading
-data/
+data/*
 models/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,latex,windows,macos,linux,vim,intellij+all,visualstudiocode
