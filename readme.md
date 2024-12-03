@@ -1,9 +1,16 @@
+## Project 1 - Detecting Arrhythmia from ECG Signals using KNN
 
-## Dataset
+## Authors
+
+- Cícero Coimbra Fonseca - 12624912
+- Lívia Lelis - 12543822
+- Samuel Figueiredo Veronez - 12542626
+
+### Dataset
 
 <https://physionet.org/content/ltafdb/1.0.0/>
 
-## Environment
+### Environment
 
 ```bash
 micromamba create -n timeseries-tp python=3.12 jupyter scikit-learn matplotlib \
